@@ -69,4 +69,4 @@ end:
 	goto again;
 }
 /// Original code by Ravi Patel (https://myprogworld.wordpress.com/) 2014
-/// Edited by mrkod32 (github.com/mrkod32) 2020
+/// Edited by MSS (github.com/MSS00) 2020
